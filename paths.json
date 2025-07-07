@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/Atlas-Copco/:/",
+    "/content/Atlas-Copco/configuration:/.helix/config.json",
+    "/content/Atlas-Copco/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/Atlas-Copco/"
   ]
 }
